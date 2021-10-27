@@ -1,4 +1,6 @@
-### HOLA! 
+<p align="center">
+ HOLA! 
+</p>
 <p align="center">
   <img src="https://i.ibb.co/j9Nqt7C/Whats-App-Image-2021-10-25-at-16-23-49.jpg" alt="animated" width="130px" />
 </p>
