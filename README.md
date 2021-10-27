@@ -46,12 +46,6 @@ sin saber nada de programación me inscribí, estuve viendo algunos videos que n
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mailys50&label=Profile%20views&color=0e75b6&style=flat" alt="mailys50" /> </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mailys50&show_icons=true&locale=en&layout=compact" alt="mailys50" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mailys50&" alt="mailys50" /></p>
 
 
 
