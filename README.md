@@ -9,9 +9,9 @@
 
 
 
-- 🔭 Estoy trabajando en el proyecto Fleet-management
+- 🔭 Estoy trabajando en el proyecto Fleet-management, que es el proyecto final para culminar el Bootcam de backend en Laboratoria. 
 
-- 🌱Actualmente estoy aprendiendo a trabajar con base de datos, Api
+- 🌱Actualmente estoy utilizando:base de dato PostgreSQL, prisma, express,jwt, potsman, .....
 - 💬 Preguntame algo https://www.linkedin.com/in/mailysbrizuela/
 - 📫 como encontrarme mailysbrizuela@gmail.com
 
