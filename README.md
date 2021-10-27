@@ -1,6 +1,6 @@
 ### HOLA! 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/77859157?s=48&v=4" alt="animated" width="120px" />
+  <img src="https://i.ibb.co/j9Nqt7C/Whats-App-Image-2021-10-25-at-16-23-49.jpg" alt="animated" width="150px" />
 </p>
 
 
