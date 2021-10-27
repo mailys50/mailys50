@@ -1,9 +1,9 @@
-### Hola! 👋
+### HOLA! 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/77859157?s=48&v=4" alt="animated" width="120px" />
+</p>
 
 
-**mailys50/mailys50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Estoy trabajando en el proyecto Fleet-management
 
