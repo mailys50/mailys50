@@ -7,7 +7,7 @@
  HOLA! 
 </p>
 <p align="center">
- ¿Sabias que si nuestras actitudes superan nuestras habilidades todo aquello que parecía imposible se hace posible?
+ ¿Sabias que si cuando nuestras actitudes superan nuestras habilidades todo aquello que parecía imposible se hace posible?
 </p>
 
 <p>
