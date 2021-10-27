@@ -6,12 +6,22 @@
 <p align="center">
  HOLA! 
 </p>
+<p align="center">
+ ¿Sabias que si nuestras actitudes superan nuestras habilidades todo aquello que parecía imposible se hace posible?
+</p>
+
+<p>
+Soy Venezolana, Técnico superior Universitario en Contaduría. Inicié en el mundo de la programación con un anuncio que me llamó la atención: 
+"se invita a programadores a una gran maraton, para dar a soluciones a empresa reales con inteligencia artificial", WAAAOOO
+sin saber nada de programación me inscribí, estuve viendo algunos videos que nos proporcionaban y no entendía nada. Me propuse aprender
+ sobre este tema: leer, ver videos y a realizar practicas. luego Conocí Laboratoria e inicie el maravilloso mundo TI.
+</p>
 
 
 
-- 🔭 Estoy trabajando en el proyecto Fleet-management, que es el proyecto final para culminar el Bootcam de backend en Laboratoria. 
+- 🔭 Estoy trabajando en el proyecto Fleet-management, que es el proyecto final para culminar mi 2do Bootcam  en Laboratoria (backend). 
 
-- 🌱Actualmente estoy utilizando:base de dato PostgreSQL, prisma, express,jwt, potsman, .....
+- 🌱Actualmente estoy utilizando: base de dato PostgreSQL, prisma, express,jwt, potsman, .....
 - 💬 Preguntame algo https://www.linkedin.com/in/mailysbrizuela/
 - 📫 como encontrarme mailysbrizuela@gmail.com
 
