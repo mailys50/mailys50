@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/dbzQFD7/Whats-App-Image-2021-10-27-at-16-06-55.jpg" alt="animated" width="130px" />
+  <img   src="https://i.ibb.co/dbzQFD7/Whats-App-Image-2021-10-27-at-16-06-55.jpg" alt="animated" width="140px"rad  style="border-radius: 20px 20px 0 0;"/>
 </p>
 <p align="center">
  HOLA! 
