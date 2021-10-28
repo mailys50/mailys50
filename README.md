@@ -19,7 +19,7 @@ sin saber nada de programación me inscribí, estuve viendo algunos videos que n
 
 
 
-- 🔭 Estoy trabajando en el proyecto Fleet-management, que es el proyecto final para culminar mi 2do Bootcam  en Laboratoria (backend). 
+- 🔭 Estoy trabajando en el proyecto Fleet-management, que es el proyecto final para culminar mi 2do Bootcamp  en Laboratoria (backend). 
 
 - 🌱Actualmente estoy utilizando: base de dato PostgreSQL, prisma, express,jwt, potsman, .....
 - 💬 Preguntame algo https://www.linkedin.com/in/mailysbrizuela/
