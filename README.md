@@ -7,14 +7,14 @@
  HOLA! 
 </p>
 <p align="center">
- ¿Sabias que si cuando nuestras actitudes superan nuestras habilidades todo aquello que parecía imposible se hace posible?
+ ¿Sabias que  cuando nuestras actitudes superan nuestras habilidades todo aquello que parecía imposible se hace posible?
 </p>
 
 <p>
 Soy Venezolana, Técnico superior Universitario en Contaduría. Inicié en el mundo de la programación con un anuncio que me llamó la atención: 
 "se invita a programadores a una gran maraton, para dar a soluciones a empresa reales con inteligencia artificial", WAAAOOO
 sin saber nada de programación me inscribí, estuve viendo algunos videos que nos proporcionaban y no entendía nada. Me propuse aprender
- sobre este tema: leer, ver videos y a realizar practicas. luego Conocí Laboratoria e inicie el maravilloso mundo TI.
+ sobre este tema: leer, ver videos y a realizar prácticas. luego Conocí Laboratoria e inicie el maravilloso mundo TI.
 </p>
 
 
@@ -46,6 +46,6 @@ sin saber nada de programación me inscribí, estuve viendo algunos videos que n
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+![Ruby](https://img.shields.io/badge/Ruby-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
