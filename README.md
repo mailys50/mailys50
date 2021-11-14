@@ -46,6 +46,6 @@ sin saber nada de programación me inscribí, estuve viendo algunos videos que n
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-FF6C37?style=for-the-badge&logo=Ruby&logoColor=white)
 
 
