@@ -7,8 +7,7 @@
  HOLA! 
 </p>
 <p align="center">
- ¿Sabias que  cuando nuestras actitudes superan nuestras habilidades todo aquello que parecía imposible se hace posible?
-</p>
+ ¿Sabías que cuando nuestras actitudes superan nuestras habilidades todo aquello que parecía imposible se hace posible?
 
 <p>
 Soy Venezolana, Técnico superior Universitario en Contaduría. Inicié en el mundo de la programación con un anuncio que me llamó la atención: "se invita a programadores a una gran maratón, para dar a soluciones a empresa reales con inteligencia artificial", WAOOO sin saber nada de programación me inscribí, estuve viendo algunos videos que nos proporcionaban y no entendía nada. Me propuse aprender sobre este tema: leer, ver vídeos y a realizar prácticas. Luego conocí Laboratoria e inicié el maravilloso mundo TI.
